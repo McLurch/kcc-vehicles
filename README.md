@@ -1,12 +1,14 @@
 # kcc-vehicles
 Karma Crew Community Vehicle Pack
 
-Car										Spawn Code								  Folder Name
-Camaro ZL1							    2018zl1									  camarozl1
-2019 Mustang Shelby GT500  				19gt500			  						  19gt500
-Aston Martin One77						one77									  AstonMartinOne77
-2015 Audi A6							a615									  AudiA6
-Audi R8							    	ar8lb									  AudiR8
+| Car						|				Spawn Code					|			  Folder Name|
+|---------------|---------------------------|------------------|
+| Camaro ZL1			|				    2018zl1							|		  camarozl1| 
+| 2019 Mustang Shelby GT500  	|			19gt500			 | 						  19gt500
+| Aston Martin One77			|			one77					|				  AstonMartinOne77
+| 2015 Audi A6					|		a615						|			  AudiA6
+| Audi R8						|	    	ar8lb					|				  AudiR8
+
 Bentley Continental GT					contgt13								  BentleyContinentalGT
 Bugatti Chiron							2017chiron								  BugattiChiron
 Cadillac ATSV							cats									  cats
