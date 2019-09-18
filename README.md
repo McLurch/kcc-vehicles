@@ -20,7 +20,7 @@ Karma Crew Community Vehicle Pack
 | Ford GT 2017			| 				gt17					| 				  FordGT2017
 | 2015 Ford Mustang			| 			mgt						| 			  	  FordMustangGT2015
 | GMC Yukon Denali			| 			gmcyd					| 				  gmcyd
-| Ninja H2				| 				h2						| 			  	  H2
+| Ninja H2				| 				H2						| 			  	  H2
 | Honda Civic Type R			| 			EK9						| 			  	  HondaCivicTypeR
 | Koensigsegg Agera R			| 			acsr				| 					  KoensigseggAgeraR
 | McLaren P1				| 				p1						| 			  	  McLarenP1
