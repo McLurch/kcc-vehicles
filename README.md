@@ -8,7 +8,6 @@ Karma Crew Community Vehicle Pack
 | Aston Martin One77			|			one77					|				  AstonMartinOne77
 | 2015 Audi A6					|		a615						|			  AudiA6
 | Audi R8						|	    	ar8lb					|				  AudiR8
-
 | Bentley Continental GT		| 			contgt13				| 				  BentleyContinentalGT
 | Bugatti Chiron			| 				2017chiron					| 			  BugattiChiron
 | Cadillac ATSV				| 			cats						| 			  cats
